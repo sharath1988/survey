@@ -11,6 +11,7 @@ angular.module('mwFormBuilder')
             callback: null,
             filter: null,
             showInOpen:false,
+            
             showInPreview:true,
             cssClass: ''
         };

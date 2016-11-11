@@ -3,6 +3,7 @@ angular.module('mwFormBuilder')
         return {
             link: function(scope, element, attrs) {
                 var model = $parse(attrs.wdFocusMe);
+                
                 scope.$watch(model, function(value) {
                     if(value === true) {
                         $timeout(function() {

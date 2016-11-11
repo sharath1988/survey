@@ -1,9 +1,9 @@
 # angular-surveys
 Angular.js survey / form builder inspired by Google Forms
 
-[Bootstrap Demo](htts://sharath1988.github.io/survey)
+[Bootstrap Demo](https://sharath1988.github.io/survey)
 
-[Material Design Demo](htts://sharath1988.github.io/survey/material)
+[Material Design Demo](https://sharath1988.github.io/survey/material)
 
 ## Bower
 
